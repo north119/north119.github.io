@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Clinical and Counseling Psychology, Tohoku University, 2029 (expected)
+* M.A. in Education in Clinical and Counseling Psychology, Beijing Normal University, 2025
+* B.S. in Psychology, Beijing Normal University, 2022
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Work experience
+# ======
+# * Spring 2024: Academic Pages Collaborator
+#  * GitHub University
+#  * Duties includes: Updates and improvements to template
+#  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# * Fall 2015: Research Assistant
+#  * GitHub University
+#  * Duties included: Merging pull requests
+#  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# * Summer 2015: Research Assistant
+#  * GitHub University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
   
 Skills
 ======
@@ -47,18 +47,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Teaching
+# ======
+#  <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
