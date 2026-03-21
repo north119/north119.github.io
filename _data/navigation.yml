@@ -16,9 +16,6 @@ main:
 
   - title: "Service"
     url: /service/
-
-  - title: "Science Communication"
-    url: /communication/
  
  # - title: "Teaching"
    # url: /teaching/    
