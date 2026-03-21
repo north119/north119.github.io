@@ -235,7 +235,10 @@ collections:
     permalink: /:collection/:path/
   service:
     output: true
-    permalink: /service/:path/
+    permalink: /:collection/:path/
+  communication:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
