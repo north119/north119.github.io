@@ -17,12 +17,16 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages**
+  * English: TOEFL 106 (2024); IELTS 7.0 (2019); CET-6 619; CET-4 653
+  * Japanese: JLPT N1 (Score: 150/180)
+  * Chinese: Native
+* **Data Analysis & Modeling**
+  * Quantitative: R, Mplus, SPSS
+  * Qualitative: MAXQDA
+* **Research Tools & Software**
+  * Survey Platforms: Qualtrics, Google form
+  * Productivity: Microsoft Office (Excel, PowerPoint)
 
 Publications
 ======
