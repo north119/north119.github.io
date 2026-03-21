@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinyi Yu | Researcher in Traumatic Loss & Identity Reconstruction"
+title: "Researcher in Traumatic Loss & Identity Reconstruction"
 author_profile: true
 redirect_from: 
   - /about/
