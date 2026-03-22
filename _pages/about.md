@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Researcher in Traumatic Loss & Identity Reconstruction"
+title: "Researcher in **bereavement**, **trauma**, and towards **traumatic loss**"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,9 @@ redirect_from:
 
 "How do we carry the weight of loss while weaving a new sense of self?"
 
+
+About me
+======
 I am a PhD student in Psychology at Tohoku University, dedicated to understanding the complex journey of bereavement. My research journey began with a focus on bereaved individuals in China, where I utilized both cross-sectional and longitudinal quantitative designs to map the risk and protective factors that influence the bereavement adaptation process.
 
 Currently, my work delves deeper into the live experiences of traumatically bereaved individuals. I am particularly interested in the concept of Negative Identity—exploring how a shattered sense of self after a traumatic loss impacts long-term mental health. By integrating rigorous statistical modeling with a deep empathy for the human experience, I hope to identify pathways for healing and identity integration.
