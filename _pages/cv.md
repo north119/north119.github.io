@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Clinical and Counseling Psychology, Tohoku University, 2029 (expected)
-* M.A. in Education in Clinical and Counseling Psychology, Beijing Normal University, 2025
+* M.A. in Clinical and Counseling Psychology, Beijing Normal University, 2025
 * B.S. in Psychology, Beijing Normal University, 2022
   
 Skills
