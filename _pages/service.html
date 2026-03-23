@@ -4,12 +4,13 @@ title: "Social Practice & Outreach"
 permalink: /service/
 author_profile: true
 ---
+
 {% include base_path %}
 
-Social Practice
-======
+## Social Practice
+---
 {% for post in site.service reversed %}
-  {% if post.catagory == "practice" %}
+  {% if post.category == "practice" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -19,7 +20,7 @@ Social Practice
 ## Science Communication
 ---
 {% for post in site.service reversed %}
-  {% if post.catagory == "articles" %}
+  {% if post.category == "articles" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
