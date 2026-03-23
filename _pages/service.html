@@ -9,7 +9,7 @@ author_profile: true
 ## Social Practice
 ---
 {% for post in site.service reversed %}
-  {% if post.category == "practice" %}
+  {% if post.type == "practice" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -19,7 +19,7 @@ author_profile: true
 ## Science Communication
 ---
 {% for post in site.service reversed %}
-  {% if post.category == "articles" %}
+  {% if post.type == "articles" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
