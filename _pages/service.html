@@ -6,10 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Social Practice
----
+Social Practice
+======
 {% for post in site.service reversed %}
-  {% if post.type == "practice" %}
+  {% if post.catagory == "practice" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -19,7 +19,7 @@ author_profile: true
 ## Science Communication
 ---
 {% for post in site.service reversed %}
-  {% if post.type == "articles" %}
+  {% if post.catagory == "articles" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
