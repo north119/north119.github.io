@@ -298,7 +298,14 @@ defaults:
       layout: talk
       author_profile: true
       share: false
-
+  # _service
+  - scope:
+      path: ""
+      type: service
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:
