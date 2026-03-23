@@ -10,7 +10,7 @@ var addressPoints = [
     14.4265172
   ],
   [
-    "Continuing Bonds and Post-loss Adaptation Among Recently Bereaved Individuals During the COVID-19 Pandemic: A Latent Profile Analysis (in Chinese)<br />The 2023 Academic Conference of Clinical and Counseling Psychology; Zhuhai, China",
+    "\u75ab\u60c5\u671f\u95f4\u6025\u6027\u54c0\u4f24\u671f\u4e27\u4eb2\u8005\u7684\u6301\u7eed\u6027\u8054\u7ed3\u4e0e\u4e27\u4eb2\u540e\u9002\u5e94\uff1a\u57fa\u4e8e\u6f5c\u5728\u5256\u9762\u5206\u6790 / Continuing Bonds and Post-loss Adaptation Among Recently Bereaved Individuals During the COVID-19 Pandemic: A Latent Profile Analysis (in Chinese)<br />The 2023 Academic Conference of Clinical and Counseling Psychology; Zhuhai, China",
     22.273734,
     113.5721327
   ]
