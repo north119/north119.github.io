@@ -7,20 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-## Social Practice
----
-{% for post in site.service reversed %}
-  {% if post.category == "practice" %}
+<!-- 模仿 Publications 的分类渲染逻辑 -->
+{% if site.service_category %}
+  {% for category in site.service_category %}
+    {% assign title_shown = false %}
+    {% for post in site.service reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  <!-- 如果没有定义分类，则直接列出所有项目 -->
+  {% for post in site.service reversed %}
     {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-<br>
-
-## Science Communication
----
-{% for post in site.service reversed %}
-  {% if post.category == "articles" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+{% endif %}
