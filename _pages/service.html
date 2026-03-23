@@ -1,12 +1,25 @@
 ---
 layout: archive
-title: "Social Work & Outreach"
+title: "Social Practice & Outreach"
 permalink: /service/
 author_profile: true
 ---
-
 {% include base_path %}
 
+## Social Practice
+---
 {% for post in site.service reversed %}
-  {% include archive-single.html %}
+  {% if post.category == "practice" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<br>
+
+## Science Communication
+---
+{% for post in site.service reversed %}
+  {% if post.category == "articles" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
