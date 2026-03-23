@@ -91,6 +91,12 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+service_category:
+  practice:
+    title: "Social Practice"
+  articles:
+    title: "Science Communication"
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
